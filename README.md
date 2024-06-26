@@ -14,4 +14,4 @@ Great to see you here! My name is Maheer and I'm a second-year Computer Engineer
 * A personal portfolio.
 
 ## Contact Me!
-You can always find me [here](https://www.linkedin.com/in/maheer-huq-1aa3b426b/)
+You can always find me [here](https://www.linkedin.com/in/maheer-huq-1aa3b426b/).
