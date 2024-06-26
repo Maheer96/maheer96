@@ -1,3 +1,5 @@
+(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmNx1v2LjcWmMLxUE2w7h052YIMTopKKuhdA&s)
+
 ## Hello! 👋🏼
 Great to see you here! My name is Maheer and I'm a second-year Computer Engineering student at [McMaster University](https://www.mcmaster.ca/). Over here I am:
 * Striving to create the best hackathon in Canada with DeltaHacks.
