@@ -1,4 +1,4 @@
-![image](https://github.com/Maheer96/maheer96/assets/140021997/cca56984-4edd-49f7-ac83-923c541375c1)
+![image](https://github.com/Maheer96/maheer96/assets/140021997/e2b538c2-4a2a-4c35-894e-e85111db205c)
 
 ## Hello! 👋🏼
 Great to see you here! My name is Maheer and I'm a second-year Computer Engineering student at [McMaster University](https://www.mcmaster.ca/). Over here I am:
