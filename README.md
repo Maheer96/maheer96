@@ -4,7 +4,7 @@
 Great to see you here! My name is Maheer and I'm a second-year Computer Engineering student at [McMaster University](https://www.mcmaster.ca/). Over here I am:
 * Striving to create the best hackathon in Canada with DeltaHacks.
 * Playing intramural basketball with some friends.
-* Creating a programming database
+* Slacking off on homework
 
 ## What do I like doing? 🏀
 * My initial inspiration to pursue engineering stemmed from my passion for mathematics and physics. Over time, this has evolved into a particular interest in statistics, linear algebra, and programming, which I hope to explore fully soon.
